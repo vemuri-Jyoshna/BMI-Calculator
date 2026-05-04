@@ -11,17 +11,3 @@ Normal weight
 Overweight
 Obese
 
-🧮 Formula Used
-BMI=
-height
-2
- (m
-2
-)
-weight (kg)
-	​
-
-💻 Technologies Used
-HTML
-CSS
-JavaScript 
