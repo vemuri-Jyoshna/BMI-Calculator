@@ -5,19 +5,19 @@ A simple BMI (Body Mass Index) Calculator that helps users determine their body 
 
 🚀 Features
 
-Calculate BMI using height and weight
+--> Calculate BMI using height and weight
 
-Displays BMI value
+--> Displays BMI value
 
-Shows health category:
+--> Shows health category:
 
-Underweight
+--> Underweight
 
-Normal weight
+--> Normal weight
 
-Overweight
+--> Overweight
 
-Obese
+--> Obese
 
 
 
@@ -27,6 +27,9 @@ BMI  =  weight (kg) / height^2(m^2)​
 
 	​
 💻 Technologies Used
+
 HTML
+
 CSS
+
 JavaScript 
